@@ -116,17 +116,6 @@ Rodada 4 — Digite seu chute: 185
 ✅ Parabéns! O número era 185. Você acertou em 3 tentativa(s)!
 ```
 
----
-
-## 🛠️ Tecnologias
-
-> Preencha conforme a linguagem que você utilizou na implementação.
-
-- **Linguagem:** `—`
-- **Versão:** `—`
-
----
-
 ## 👤 Autor
 
 Feito por **[Vinicius]** — [github.com/seu-usuario](https://github.com/seu-usuario)
